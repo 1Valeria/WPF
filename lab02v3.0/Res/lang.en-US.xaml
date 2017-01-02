@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="m_Title">TV Series</v:String>
+    <v:String x:Key="m_menu_Language">Language 1.1</v:String>
+    <v:String x:Key="file">File</v:String>
+    <v:String x:Key="open">Open</v:String>
+    <v:String x:Key="save">Save</v:String>
+    <v:String x:Key="send">Send To</v:String>
+    <v:String x:Key="exit">Exit</v:String>
+    <v:String x:Key="about">About</v:String>
+    <v:String x:Key="hell">Hell</v:String>
+    <v:String x:Key="author">Author</v:String>
+    <v:String x:Key="application">Application</v:String>
+    <v:String x:Key="language">Language 1.0</v:String>
+    <v:String x:Key="txtB">Result</v:String>
+    <v:String x:Key="txtB_1">Enter the first letters (or name)</v:String>
+    <v:String x:Key="txtB_4">Country</v:String>
+    <v:String x:Key="txtB_5">TV Serie</v:String>
+    <v:String x:Key="txtB_6">Couple</v:String>
+    <v:String x:Key="txtB_7">Enter the names of peoples you want to know about (for example: Elena Gilbert and Damon Salvatore)</v:String>
+    <v:String x:Key="b_0">Add Country</v:String>
+    <v:String x:Key="b_4">Remove Country</v:String>
+    <v:String x:Key="b_1">Add TV Serie</v:String>
+    <v:String x:Key="b_2">Add Couple</v:String>
+    <v:String x:Key="b_3">Find</v:String>
+    <v:String x:Key="b_5">Remove TV Series</v:String>
+    <v:String x:Key="b_6">Remove Couple</v:String>
+    <v:String x:Key="b_10">Selection from collection</v:String>
+    <v:String x:Key="b_11">OrderBy</v:String>
+    <v:String x:Key="b_12">Union</v:String>
+    <v:String x:Key="txt_5">Result</v:String>
+</ResourceDictionary>

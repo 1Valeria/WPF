@@ -1,0 +1,55 @@
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.exe.config
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.exe
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.pdb
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.csprojResolveAssemblyReference.cache
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\MainWindow.g.cs
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\App.g.cs
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0_MarkupCompile.cache
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0_MarkupCompile.lref
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\MainWindow.baml
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.g.resources
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3._0.Properties.Resources.resources
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.csproj.GenerateResource.Cache
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.exe
+D:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.pdb
+d:\453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.exe.config
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.exe
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.pdb
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.exe
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.pdb
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.csprojResolveAssemblyReference.cache
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\MainWindow.g.cs
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\App.g.cs
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0_MarkupCompile.cache
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0_MarkupCompile.lref
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\MainWindow.baml
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.g.resources
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3._0.Properties.Resources.resources
+D:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.csproj.GenerateResource.Cache
+d:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3._0.MyResources.resources
+d:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0_Content.g.cs
+g:\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.exe.config
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.exe
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.pdb
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.csprojResolveAssemblyReference.cache
+g:\lab02v3.0\lab02v3.0\obj\Debug\MainWindow.g.cs
+g:\lab02v3.0\lab02v3.0\obj\Debug\App.g.cs
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0_Content.g.cs
+g:\lab02v3.0\lab02v3.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0_MarkupCompile.cache
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0_MarkupCompile.lref
+g:\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.exe
+g:\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.pdb
+g:\lab02v3.0\lab02v3.0\obj\Debug\MainWindow.baml
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.g.resources
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3._0.MyResources.resources
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3._0.Properties.Resources.resources
+g:\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.csproj.GenerateResource.Cache
+d:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\Res\lang.en-US.baml
+d:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\Res\lang.baml
+d:\2 курс 453501\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\App.baml
+d:\2 course 453501 - 1 sem\C#\labs\lab02v3.0\lab02v3.0\bin\Debug\lab02v3.0.exe.config
+d:\2 course 453501 - 1 sem\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.exe
+d:\2 course 453501 - 1 sem\C#\labs\lab02v3.0\lab02v3.0\obj\Debug\lab02v3.0.pdb
